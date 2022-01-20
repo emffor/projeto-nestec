@@ -1,0 +1,39 @@
+.button-back{
+    position: absolute;
+    left: 125px;
+    top: 80px;
+    border-radius: 25px;
+    background-color: #28415D;
+}
+
+.background-task{
+    position: relative;
+    width: 1732px;
+    height: 1039px;
+    background: #F9F9F9;
+  }
+
+  .to-do{
+    position: absolute;
+    width: 127px;
+    height: 54px;
+    left: 802px;
+    top: 42px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+  }
+
+  .backgroud-top{
+    position: absolute;
+    width: 1732px;
+    height: 294px;
+    left: 0px;
+    top: -13px;
+    background: #28415D;
+  }
+
+

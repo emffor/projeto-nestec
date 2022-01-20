@@ -1,0 +1,55 @@
+.button-enter {
+  position: absolute;
+  width: 364px;
+  height: 72px;
+  left: 125px;
+  top: 600px;
+  background: #28415D;
+  border-radius: 35px;
+  }
+
+  .background-home{
+    position: relative;
+    width: 1732px;
+    height: 1039px;
+    background: #F9F9F9;
+  }
+
+  .text-button{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 1px;
+    color: #FFFFFF;
+  }
+
+  .text-menssage{
+    position: absolute;
+    width: 741px;
+    height: 121px;
+    left: 125px;
+    top: 403px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 59px;
+    color: #28415D;
+  }
+
+  .logoImg{
+    position: absolute;
+    width: 245px;
+    height: 125px;
+    left: 125px;
+    top: 63px;
+  }
+
+  .logoImg2{
+    position: absolute;
+    width: 492px;
+    height: 575px;
+    left: 1135px;
+    top: 236px;
+  }
