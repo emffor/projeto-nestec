@@ -1,0 +1,38 @@
+.texto{
+width: 936px;
+height: 0px;
+left: 67px;
+top: 360px;
+border: 1px solid rgba(0, 0, 0, 0.15);
+font-size: 40px;
+padding: 0px;
+
+}
+
+.checkbox{
+    width: 20px;
+    height: 20px;
+    left: 1007px;
+    top: 181px;
+    background: #FFFFFF;
+    border: 1px solid #28415D;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+}
+
+
+
+.remove-task-button{
+    position: center;
+    width: 0px;
+    height: 58px;
+    left: 500px;
+    top: 200px;
+    font-size: 20px;
+    background: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    color: #28415D;
+}

@@ -1,7 +1,9 @@
 import React from 'react';
 import { useHistory } from 'react-router-dom';
 
-import Container from '../../components/countainer';
+import Main from '../../components/main';
+
+import { AiOutlineArrowLeft } from 'react-icons/ai';
 
 import './style.css';
 
@@ -14,7 +16,9 @@ function BackButton(){
     }
     return (
         <button className='button-back' type='button' onClick={handleClick}>
-            <p className='text-button'>Voltar</p>
+            <p>
+                <AiOutlineArrowLeft/>
+            </p>
         </button>
     );
 
@@ -22,10 +26,11 @@ function BackButton(){
 
 const Task = () => {
     return (  
-        <div className='background-home'>
+        <div className='background-atividades'>
+            
             <h2 className='backgroud-top'></h2>
             <h1 className='to-do'>To.Do</h1>
-            <Container/>
+            <Main/>
             <BackButton/>
         </div>
     );

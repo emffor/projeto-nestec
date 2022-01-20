@@ -1,11 +1,18 @@
 import React from 'react';
 
-const Tasks = () => {
+import Itask from './itask';
+
+const Tasks = ({ tasks, handleTaskDeletion }) => {
     return ( 
-        <h1>
-            Tasks
-        </h1>
+        <>
+            {tasks.map((itask) => (
+              <Itask itask={itask} handleTaskDeletion={handleTaskDeletion}/>  
+            ))}
+        </>
      );
-}
- 
+};
+       
+                
+                
+
 export default Tasks;

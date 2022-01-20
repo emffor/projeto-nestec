@@ -6,13 +6,7 @@
   top: 600px;
   background: #28415D;
   border-radius: 35px;
-  }
-
-  .background-home{
-    position: relative;
-    width: 1732px;
-    height: 1039px;
-    background: #F9F9F9;
+  cursor: pointer;
   }
 
   .text-button{
@@ -23,6 +17,14 @@
     line-height: 1px;
     color: #FFFFFF;
   }
+
+  .background-home{
+    position: relative;
+    width: 1732px;
+    height: 1039px;
+    background: #F9F9F9;
+  }
+
 
   .text-menssage{
     position: absolute;

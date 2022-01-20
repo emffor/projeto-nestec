@@ -1,0 +1,45 @@
+.background-atividades{
+  position: relative;
+  width: 1732px;
+  height: 1039px;
+  background: #F9F9F9;
+}
+
+.backgroud-top{
+  position: absolute;
+  width: 1732px;
+  height: 294px;
+  left: 0px;
+  top: -16px;
+  background: #28415D;
+}
+
+.to-do{
+  position: absolute;
+  width: 127px;
+  height: 54px;
+  left: 802px;
+  top: 42px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 56px;
+  color: #FFFFFF;
+}
+
+.button-back{ 
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      left: 50px;
+      top: 35px;
+      background-color: #28415D;
+      color: white;
+      font-size: 50px;
+      border: none;
+      cursor: pointer;
+}
+
+
+

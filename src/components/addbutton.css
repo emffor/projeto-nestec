@@ -1,0 +1,15 @@
+.input-add{
+    position: absolute;
+    width: 378px;
+    height: 58px;
+    left: 555px;
+    top: 90px;
+    font-size: 35px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px 0px 0px 5px;
+    
+}
+
+
